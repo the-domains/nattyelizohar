@@ -1,5 +1,4 @@
-layout_spectrum: 0.5765589415095747
-typography_spectrum: 0.34006291860714555
+typography_spectrum: 0.08172746282070875
 color:
   brandStrength: 0.5860250976402313
   lightness: 0.85119091370143
@@ -11,5 +10,7 @@ color:
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
+layout_spectrum: 0.23589739855378866
 name: NattyEliZohar
+title: 'Natty, Elisha, and Zohar Greenspan'
 description: 11 years on - a new format for our joint site
