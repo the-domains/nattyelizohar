@@ -4,8 +4,15 @@
         <description><![CDATA[Natty, Elisha, and Zohar Greenspan]]></description>
         <link>https://thegrid.ai/nattyelizohar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 10:56:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 10:56:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nattyelizohar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d7a0584-b0f4-4738-a6cf-373db52e9a63.jpg">]]></description>
+            <link>https://thegrid.ai/nattyelizohar/e08c4653-f8e8-4752-ac42-765514ba0985/index.html</link>
+            <guid isPermaLink="false">e08c4653-f8e8-4752-ac42-765514ba0985</guid>
+            <pubDate>Fri, 05 Aug 2016 10:56:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f58753b8-500e-4aee-9f85-e03773c10e95.jpg" alt="Third week of the summer holidays... and as well as Keytana, we&apos;re having a great time in the afternoons!">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nattyelizohar/0af0ea23-8097-4a5c-8e09-2d333e354a79/index.html</link>
             <guid isPermaLink="false">0af0ea23-8097-4a5c-8e09-2d333e354a79</guid>
             <pubDate>Fri, 05 Aug 2016 10:35:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d7a0584-b0f4-4738-a6cf-373db52e9a63.jpg">]]></description>
-            <link>https://thegrid.ai/nattyelizohar/e08c4653-f8e8-4752-ac42-765514ba0985/index.html</link>
-            <guid isPermaLink="false">e08c4653-f8e8-4752-ac42-765514ba0985</guid>
-            <pubDate>Fri, 05 Aug 2016 10:35:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
