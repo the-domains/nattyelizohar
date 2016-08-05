@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NattyEliZohar]]></title>
         <description><![CDATA[NattyEliZohar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nattyelizohar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 10:35:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Aug 2016 10:35:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nattyelizohar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab2d4cda-b6d9-41b4-af82-044dafc19360.jpg">]]></description>
+            <link>https://thegrid.ai/nattyelizohar/20597f24-5ce5-4818-9140-b6edcaf91a97/index.html</link>
+            <guid isPermaLink="false">20597f24-5ce5-4818-9140-b6edcaf91a97</guid>
+            <pubDate>Fri, 05 Aug 2016 10:35:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f06b8b-52bc-4aef-8820-a17b648dd8bd.jpg">]]></description>
-            <link>undefinedb7ea6257-bff9-422a-9d8c-41c4f5f34777/index.html</link>
+            <link>https://thegrid.ai/nattyelizohar/b7ea6257-bff9-422a-9d8c-41c4f5f34777/index.html</link>
             <guid isPermaLink="false">b7ea6257-bff9-422a-9d8c-41c4f5f34777</guid>
             <pubDate>Fri, 05 Aug 2016 10:35:09 GMT</pubDate>
         </item>
