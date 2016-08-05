@@ -4,8 +4,15 @@
         <description><![CDATA[Natty, Elisha, and Zohar Greenspan]]></description>
         <link>https://thegrid.ai/nattyelizohar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 10:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 10:53:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nattyelizohar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f58753b8-500e-4aee-9f85-e03773c10e95.jpg">]]></description>
+            <link>https://thegrid.ai/nattyelizohar/b2be7494-0c25-4bbb-a0a8-98d7bbf10dde/index.html</link>
+            <guid isPermaLink="false">b2be7494-0c25-4bbb-a0a8-98d7bbf10dde</guid>
+            <pubDate>Fri, 05 Aug 2016 10:53:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d53dfaefcd1ddce62b6d2c4695dc980/croprotate.jpg?cropheight=600&cropwidth=800&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fab2d4cda-b6d9-41b4-af82-044dafc19360.jpg&x=0&y=0" alt="...and we are sure you are going to have a great time at Machnak!">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nattyelizohar/6a403059-f863-4ce3-8b5c-ef0f83cd5907/index.html</link>
             <guid isPermaLink="false">6a403059-f863-4ce3-8b5c-ef0f83cd5907</guid>
             <pubDate>Fri, 05 Aug 2016 10:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8dc6926-f91a-424c-96f8-e462fc742bd3.jpg">]]></description>
-            <link>https://thegrid.ai/nattyelizohar/080ba432-c613-4aa7-9a00-0e7aeb0cb250/index.html</link>
-            <guid isPermaLink="false">080ba432-c613-4aa7-9a00-0e7aeb0cb250</guid>
-            <pubDate>Fri, 05 Aug 2016 10:35:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
